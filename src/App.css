@@ -1,21 +1,32 @@
+body {
+  background-image: url("https://www.iris.xyz/wp-content/uploads/2019/07/why-you-want-to-be-in-white-space-1000x600.jpg")
+}
 .App {
   text-align: center;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  color:black;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .product {
-  background: white;
   display: flex;
   flex-direction: row;
-  border: 2px solid black;
-  border-radius: 3px;
-  width: 100px;
-  height: 100px;
-  margin: 25px;
-  font-size: 10px;
+  width: 300px;
+  height: 150px;
+  margin: 50px;
+  font-size: 15x;
+  color: aliceblue;
+  border-style: solid;
+  border-width: 10px;
+}
+
+.image {
+  flex-direction: column;
+  width: 300px;
+  color: mediumaquamarine;
 }
 
 
