@@ -15,7 +15,7 @@ let shoppingCartItems = [
     price: 100
   },
   {
-    item: 'Cotton Sweatsuit',
+    item: 'Sweatsuit',
     image: 'https://i.pinimg.com/originals/ae/07/7a/ae077ad7896ba93a2f317257ebc47af9.jpg',
     description: 'For maximum comfort.',
     price: 10
